@@ -1,4 +1,10 @@
+<div align="center">
+    <img width="150" height="150" alt="ft_transcendencem" src="https://github.com/user-attachments/assets/b37d9ae3-bf5f-4f14-9b03-163c154df470" />
+    
 *This project has been created as part of the 42 curriculum by feazeved, alebarbo, dda-fons, wlucas-f.*
+</div>
+
+
 
 <div align="center">
 
